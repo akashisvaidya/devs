@@ -1,3 +1,53 @@
+<<<<<<< HEAD
+=======
+// class Animal{
+//     constructor(name){
+//         this._name = name
+//     }
+//     get name(){
+//         return this._name
+//     }
+//     speak(){
+//         console.log(`${this._name} makes a sound`)
+//     }
+// }
+
+// class Dog extends Animal{
+//     constructor(name,breed){
+//         super(name)
+//         this._breed = breed
+//     }
+//     get breed(){
+//         return this._breed
+//     }
+//     speak(){
+//         super.speak()
+//         console.log(`${this.name} barks`)
+//     }
+// }
+// class Cat extends Animal{
+//     constructor(name, breed){
+//         super(name)
+//         this._breed = breed
+//     }
+//     get breed(){
+//         return this._breed
+//     }
+//     speak(){
+//         super.speak()
+//         console.log(`${this.name} meows`)
+//     }
+// }
+
+
+
+
+
+
+
+
+
+>>>>>>> 86412bd5f3368dd051ea8e940a4f8d50e7ab3df3
 class Animal{
     constructor(name){
         this._name = name
